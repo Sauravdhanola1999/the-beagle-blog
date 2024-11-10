@@ -3,8 +3,8 @@ body {
 }
 
 a {
-  color: black !important; /* Ensures the text color is black */
-  text-decoration: underline !important; /* Forces the underline */
+  color: black !important;
+  text-decoration: underline !important; 
 }
 
 
